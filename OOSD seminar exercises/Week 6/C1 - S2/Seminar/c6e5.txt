@@ -1,0 +1,9 @@
+We have learned that "\n" means go to a new line 
+when it is used with the cout statement. 
+In C++, '\n' and "\n" look very similar. 
+In fact, in a cout statement, they both act the same. 
+However, they do not mean the same in all situations. 
+'\n' is a value of type char and can be stored in a variable 
+of type char, for example:  int c = '\n'; 
+On the other hand, "\n" is a string, 
+that happens to be made up of one character.
